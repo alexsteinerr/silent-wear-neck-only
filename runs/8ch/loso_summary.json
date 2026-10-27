@@ -1,0 +1,29 @@
+{
+  "folds": [
+    {
+      "session": 1,
+      "val_balanced_accuracy": 0.6595531400966184,
+      "val_macro_f1": 0.6604758769328591
+    },
+    {
+      "session": 2,
+      "val_balanced_accuracy": 0.7312180814354728,
+      "val_macro_f1": 0.7397298383478345
+    },
+    {
+      "session": 3,
+      "val_balanced_accuracy": 0.6605572808833678,
+      "val_macro_f1": 0.6695799319084854
+    }
+  ],
+  "mean_balanced_accuracy": 0.6837761674718198,
+  "std_balanced_accuracy": 0.03354900371179354,
+  "mean_macro_f1": 0.6899285490630597,
+  "std_macro_f1": 0.03541042468981109,
+  "split_mode": "inter_session",
+  "ids": [
+    1,
+    2,
+    3
+  ]
+}
